@@ -1,18 +1,18 @@
-# 📊 Promedio Semanal del Clima en Python
+Promedio Semanal del Clima en Python
 
-## 📌 Descripción del Proyecto
+ Descripción del Proyecto
 Este proyecto tiene como finalidad comparar la Programación Tradicional y la Programación Orientada a Objetos (POO) mediante la implementación de un programa en Python que calcula el promedio semanal del clima a partir de temperaturas diarias ingresadas por el usuario.
 
 ---
 
-## 🎯 Objetivo
+ Objetivo
 Desarrollar habilidades prácticas en Python aplicando:
 - Programación Tradicional basada en funciones.
 - Programación Orientada a Objetos utilizando clases y métodos.
 
 ---
 
-## 🧩 Contenido del Repositorio
+
 
 promedio-clima-python  
 - programacion_tradicional.py  
@@ -21,7 +21,7 @@ promedio-clima-python
 
 ---
 
-## 🔍 Comparación entre Programación Tradicional y POO
+ Comparación entre Programación Tradicional y POO
 
 | Característica | Programación Tradicional | Programación POO |
 |---------------|--------------------------|------------------|
